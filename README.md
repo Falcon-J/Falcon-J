@@ -1,6 +1,9 @@
+
+[![MasterHead](https://tenor.com/bE02n.gif)]
 <h1 align="center">Hi 👋, I'm Omkar Jawalikar</h1>
 <h3 align="center">A tech enthusiast and designer at heart, not be great to start rather start to be great.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif">
+
 
 
 - 🔭 I’m currently working on **My portfolio website**
@@ -8,8 +11,6 @@
 - 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Falcon-J/](https://github.com/Falcon-J/)
 
 - 📫 How to reach me **omkarjawalikar04@gmail.com**
 
