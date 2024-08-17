@@ -1,4 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif" alt="MasterHead" style="max-width: 100%; height: auto;">
+</p>
 <h1 align="center">Hi 👋, I'm Omkar Jawalikar</h1>
 <h3 align="center">A tech enthusiast and designer at heart, not be great to start rather start to be great.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif">
