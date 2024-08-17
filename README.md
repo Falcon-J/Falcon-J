@@ -1,11 +1,8 @@
-[![MasterHead](https://www.tumblr.com/7her4ja/741036092446408704?source=share)]
 <h1 align="center">Hi 👋, I'm Omkar Jawalikar</h1>
 <h3 align="center">A tech enthusiast and designer at heart, not be great to start rather start to be great.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falcon-j&label=Profile%20views&color=0e75b6&style=flat" alt="falcon-j" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falcon-j" alt="falcon-j" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_omkarj" target="blank"><img src="https://img.shields.io/twitter/follow/_omkarj?logo=twitter&style=for-the-badge" alt="_omkarj" /></a> </p>
 
