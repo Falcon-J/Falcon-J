@@ -1,8 +1,8 @@
 
 ###
 
-# 💫 About Me:
-🔭 I’m currently working on TravelTrouve<br>🤝 I’m looking for help with AI/ML Projects<br>🌱 I’m currently learning FIREBASE<br>⚡ Fun fact I am Schrödinger's Ambivert
+# 💫 About Me
+🔭 I’m currently working on TravelTrouve<br>🌱 I’m currently learning FIREBASE<br>⚡ Fun fact I am Schrödinger's Ambivert
 
 ###
 
