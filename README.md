@@ -14,6 +14,7 @@
 
 
 ###
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -24,7 +25,9 @@
   <img src="https://profile-counter.glitch.me/Falcon-J/count.svg?"  />
 </div>
 
+
 [![](https://visitcount.itsvg.in/api?id=Falcon-J&icon=0&color=2)](https://visitcount.itsvg.in)
+-->
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
