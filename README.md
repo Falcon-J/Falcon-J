@@ -23,11 +23,8 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Falcon-J/count.svg?"  />
 </div>
----
 
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Falcon-J&icon=0&color=2)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=Falcon-J&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
