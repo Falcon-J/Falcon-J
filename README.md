@@ -2,7 +2,7 @@
 ###
 
 # 💫 About Me
-🔭 I’m currently working on TravelTrouve<br>🌱 I’m currently learning FIREBASE<br>⚡ Fun fact I am Schrödinger's Ambivert
+🔭 I’m currently working on Python and AI workflows<br>🌱 I’m currently learning AI/ML<br>⚡ Fun fact I am Schrödinger's Ambivert
 
 ###
 
